@@ -9,7 +9,7 @@
   "dependencies": {
     "express": "^5.0.0-alpha.2",
     "cors": "^2.8.1",
-    "ip": "^1.1.5",
+    "ip": "^1.1.9",
     "useragent": "^2.3.0"
   },
   "engines": {
